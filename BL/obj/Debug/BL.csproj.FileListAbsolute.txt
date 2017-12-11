@@ -1,0 +1,42 @@
+E:\Duoc\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\BL.dll
+E:\Duoc\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\BL.pdb
+E:\Duoc\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Duoc\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\obj\Debug\BL.dll
+E:\Duoc\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\obj\Debug\BL.pdb
+E:\Duoc\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\EL.dll
+E:\Duoc\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\EL.pdb
+E:\DuocUC\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\BL.dll
+E:\DuocUC\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\BL.pdb
+E:\DuocUC\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\EL.dll
+E:\DuocUC\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\bin\Debug\EL.pdb
+E:\DuocUC\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\DuocUC\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\obj\Debug\BL.dll
+E:\DuocUC\III Semestre\Programación orientada a objetos II .NET\Unidad III\Ejemplo Herencia\EjemploHerencia\BL\obj\Debug\BL.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\BL.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\BL.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\EL.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\EL.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\obj\Debug\BL.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\obj\Debug\BL.pdb
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\BL.dll
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\BL.pdb
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\EL.dll
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\bin\Debug\EL.pdb
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\obj\Debug\BL.dll
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\BL\obj\Debug\BL.pdb
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Debug\BL.dll
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Debug\BL.pdb
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Debug\EL.dll
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Debug\EL.pdb
+C:\Users\trans\Desktop\Empresa Transporte\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\trans\Desktop\Empresa Transporte\BL\obj\Debug\BL.dll
+C:\Users\trans\Desktop\Empresa Transporte\BL\obj\Debug\BL.pdb
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\BL\bin\Debug\BL.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\BL\bin\Debug\BL.pdb
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\BL\bin\Debug\EL.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\BL\bin\Debug\EL.pdb
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\BL\obj\Debug\BL.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\BL\obj\Debug\BL.pdb

@@ -1,0 +1,58 @@
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\obj\Debug\AppWeb.csprojResolveAssemblyReference.cache
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\AppWeb.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\AppWeb.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\BL.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\EL.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\BL.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\EL.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\obj\Debug\AppWeb.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\obj\Debug\AppWeb.pdb
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\AppWeb.dll
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\AppWeb.pdb
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\BL.dll
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\EL.dll
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\BL.pdb
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\bin\EL.pdb
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\obj\Debug\AppWeb.csprojResolveAssemblyReference.cache
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\obj\Debug\AppWeb.dll
+E:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\EjemploHerencia\AppWeb\obj\Debug\AppWeb.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\obj\Debug\AppWeb.csprojResolveAssemblyReference.cache
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\obj\Debug\AppWeb.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\bin\AppWeb.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\bin\AppWeb.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\bin\BL.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\bin\EL.dll
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\bin\BL.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\bin\EL.pdb
+F:\DuocUC\IV Semestre\Desarrollo .NET\Unidad I\2da Semana\Empresa Transporte\AppWeb\obj\Debug\AppWeb.pdb
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\bin\AppWeb.dll
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\bin\AppWeb.pdb
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\bin\BL.dll
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\bin\EL.dll
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\bin\BL.pdb
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\bin\EL.pdb
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\obj\Debug\AppWeb.csprojResolveAssemblyReference.cache
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\obj\Debug\AppWeb.dll
+C:\Users\trans\Desktop\Empresa Transporte\AppWeb\obj\Debug\AppWeb.pdb
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\AppWeb.dll.config
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\AppWeb.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\AppWeb.pdb
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\BL.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\EL.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Newtonsoft.Json.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Owin.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\BL.pdb
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\EL.pdb
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\bin\Newtonsoft.Json.xml
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\obj\Debug\AppWeb.csprojResolveAssemblyReference.cache
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\obj\Debug\AppWeb.dll
+C:\Users\RAGAE\Desktop\Empresa TransporteOriginal\AppWeb\obj\Debug\AppWeb.pdb

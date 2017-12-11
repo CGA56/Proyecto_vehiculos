@@ -1,0 +1,7 @@
+C:\Users\trans\Desktop\Empresa Transporte\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Release\BL.dll
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Release\BL.pdb
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Release\EL.dll
+C:\Users\trans\Desktop\Empresa Transporte\BL\bin\Release\EL.pdb
+C:\Users\trans\Desktop\Empresa Transporte\BL\obj\Release\BL.dll
+C:\Users\trans\Desktop\Empresa Transporte\BL\obj\Release\BL.pdb

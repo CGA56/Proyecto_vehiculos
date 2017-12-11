@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EL.Colectivo" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgAAAAAEAEAAAAAIAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Colectivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EL.Taxi" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAABAAAAEAEAAAAIAAAAAAAAAAAAAACCAAAAAA=</HashCode>
+      <FileName>Taxi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EL.Vehiculo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAAQAAkAAAAAAAAAABAAAAAAAACAgAAAAA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EL.Modelos" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAgAACAAACAAAAAAAAAAAAAAEgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EL.Recorridos" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EL.TipoTaxi" Collapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAAAAAAAAAAEAAAgAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

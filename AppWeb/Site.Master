@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="AppWeb.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Empresa de Transporte</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="CSS/Site.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <header>
+                <div class="content-wrapper">
+                    <div class="float-left">
+                        <p class="site-title">
+                            <a id="A1" runat="server" href="Index.aspx">Empresa de Transportes</a>
+                        </p>
+                    </div>
+                    <div class="float-right" id="cosas" runat="server">
+                        <p align="right">Usuario Conectado : <%=Session["usuario"]%></p>
+                        <nav>
+                            <ul id="menu" >
+                                <li><a id="A2" runat="server" href="AgregarVehiculo.aspx">Agregar</a></li>
+                                <li><a id="A3" runat="server" href="Mostrar.aspx">Mostrar</a></li>
+                                <li><a id="A4" runat="server" href="Eliminar.aspx">Eliminar</a></li>
+                                <li><a id="A5" runat="server" href="Login.aspx">Cerrar Sesion</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </header>
+            <div id="body">
+                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+                <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+                <section class="content-wrapper main-content clear-fix">
+                    <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+                </section>
+            </div>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
